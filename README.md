@@ -1,6 +1,6 @@
 # DXSwitch
- ![image](https://github.com/dongxiexidu/DXSwitch/blob/master/demo.gif)
-  ![image](https://github.com/dongxiexidu/DXSwitch/blob/master/xib_set.gif)
+![image](https://github.com/dongxiexidu/DXSwitch/blob/master/demo.gif)
+![image](https://github.com/dongxiexidu/DXSwitch/blob/master/xib_set.png)
   
 # Feature
 - [x] support Swift4
